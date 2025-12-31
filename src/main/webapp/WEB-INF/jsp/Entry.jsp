@@ -317,7 +317,7 @@
       <div class="form-group">
         <label for="name">Full Name</label>
         <i class="fas fa-user input-icon"></i>
-        <input type="text" id="name" name="name" class="form-control" required placeholder="Manish Sawant">
+        <input type="text" id="name" name="name" class="form-control" required placeholder="Enter Name">
       </div>
 
       <div class="form-group">
