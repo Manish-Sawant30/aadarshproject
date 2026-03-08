@@ -209,7 +209,7 @@ Add screenshots of:
 <img width="1048" height="612" alt="image" src="https://github.com/user-attachments/assets/7eb9d4c5-2587-406f-9e8c-e7f0fe690976" />
 
 • Gallery Page
-![Uploading image.png…]()
+<img width="1051" height="555" alt="image" src="https://github.com/user-attachments/assets/3e23bd0d-0a0a-4972-94ed-8b5b9148ea46" />
 
 ---
 
